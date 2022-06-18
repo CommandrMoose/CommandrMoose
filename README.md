@@ -15,7 +15,7 @@
 
 
 
-* Pursuing my Bachelor's in Computer Science and Games Design at QUT
+* Pursuing my Bachelor's in Computer Science and Games Design at QUT (3rd and Final Year!)
 * I have a passion for quirky games and projects
 * I'm always wanting to learn and improve my skillset.
 * Love movies, but I've probably not seen what you're talking about (looking to improve that!)

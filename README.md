@@ -8,7 +8,7 @@
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
    
-  <a href="[mailto:ctrewben@gmail.com](https://www.curseforge.com/members/commandrmooselive)">
+  <a href="https://www.curseforge.com/members/commandrmooselive">
 		<img src="https://img.shields.io/badge/CurseForge-1e1e20?style=for-the-badge&logo=curseforge" />
 	</a>
 </p>

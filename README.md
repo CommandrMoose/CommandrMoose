@@ -22,10 +22,8 @@
 <hr/>
 <div align="center">
 	
-![Metrics](https://metrics.lecoq.io/CommandrMoose?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Australia%2FBrisbane)
 	
-	
-![Metrics](https://metrics.lecoq.io/CommandrMoose?template=classic&people=1&base.indepth=false&base.hireable=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Australia%2FBrisbane)
+![Metrics](/github-metrics.svg)
 	
 </div>
 

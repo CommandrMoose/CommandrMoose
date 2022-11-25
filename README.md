@@ -13,7 +13,7 @@
 	</a>
 </p>
 
-
+Software Developer at Best Practice Software.
 
 * Pursuing my Bachelor's in Computer Science and Games Design at QUT (3rd and Final Year!)
 * I have a passion for quirky games and projects

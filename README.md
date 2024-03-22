@@ -1,4 +1,4 @@
-# Clayton Trewben, Big Nerd 
+# Clayton O'Dea, Big Nerd 
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/clayton-trewben-1a565817a/">

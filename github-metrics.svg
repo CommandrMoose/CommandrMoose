@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 10 users
+                            Followed by 11 users
                         </div>
                     </section>
                     <section>
@@ -332,10 +332,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    10 followers
+                    11 followers
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYCAwcE/8QAKxAAAgIBAwMDAQkAAAAAAAAAAQMCBBEABSEGEkETMVEUBxciUmFysbLh/8QAFgEBAQEAAAAAAAAAAAAAAAAABQME/8QAIREAAQQBBAMBAAAAAAAAAAAAAwABAgQRBTFRYQZBseH/2gAMAwEAAhEDEQA/AMl6VrWUVfp/p2uy+S1GIyTjGQBozfqX/WrwYm5VrHvLJlZWePGcca49je5VfcGouGt6brM1Mzz3AcYPjnGn3pnea1rdn2OoJT3JYrtWBdkWnJXmPv57sDUadEll5SzstV+8KtGMcboh9nnX1Dp/pitQ3PaS21GUzJ5mYylycE/hPOMabvve2GXLEW4y+Is4/rrJdw693XY6KK9fcWzYchS2KDRwfmQPwdCGde7lanJjd2uQZkiUV11QiDnwO6P8DUT1pCI45NsqAOMo2JD2k+4ZU2LDD6kVuLrC+4gYkeIfqffTxUIiJkY7GATHaQc8ZHnQLeqFZd6a4JiI47yPzS+TqVS05a6UYywP90zoJs5z19/UN5AJ8M7d/FfuVJVgrLgCyAPac4IyTpbf01KTSYy4/dpspxL4SmyczKfJ51NkcEYJ9tD6hYlI85NyndOBGNYcX4X/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQcGA//EAC0QAAEDBAAFAwEJAAAAAAAAAAECAwQABQYREhMhMXEiQWEjBxQkUWKBgrHh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIE/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAESEDMUL/2gAMAwEAAhEDEQA/AJ3heHWi1wIl0y1QL8ogxoiu2j2K/wDegra3LImLLcI7URLJhcv1NxGeMJ177Gvb9qfv1ist+scNz73wXBjo6AoAuEDXY+KOzy5220RERLPDjoXHSNu8scale53WTpyV2s7NKdGApcmlaw9GXY4iXLjxnUONlfJfb4HUj89gnVQTI8Cdh3Z5q2qjyYw6pUt1O0/pPiqJgF/uUm9NRW33CJW2tb6jY1seKGyu4pg3p1h6H+JQAH/TwfU7Hpr4qUUJi5K639bB7HfnSwxMWokOEg/Hv/Qp/MISny29H43W5DYWFH5HWo1ap8hMByOF/ST6wPmrzhN5lQcGgvNhpxx0niLzYXvW9d6QijDV50+yuxOxb7HkvpWhto8ZJ7mt7cosh+fIfTIUkOuKc1ywdbO6Iy+Iy1ZYd+ZTypykoBCOjZ/jUJzfO781f3W48sMNoSAENJ0PPmhovGDD0z//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAADcUlEQVR4nKWVXWsTWRjH8xm8tQh65sxpQmlt3TYpScwLnSZNMklNpx0dG5hkMidzZpJJ3MUoiIilu6w3foDAdvFCJEIvFhaCF4J4pxddcCtLuoVqL3pRdBdEr7yR9NTJmLe2+OchZBLOj+flPP9xLDBaHuAYJBjgCNTnoJ5hCjFILkEyA/UYJDFIOKjzkHjZoguZEahHoO5EJo7k+DlViipL0XwynEhOxp3InGaLYLjiyANsAFVmCkWg5gHGAHNQFxitAlSB0TioawBnQcHPGvOQjLMlHhIeklFUkm1KJBKBQGAUtf6dZouOGCQywBdZQznId55pnfGyRgWoXtbgIREZLQSNJUaThawo5DJCNiNkl4RcN5RF5VFkOlHZgQEuAlU5+OQhmYM6OXgcu1CUjy0KHUOleUZrlW/1VPbleT9O+7DoU2f8hSNBa7XUWi3188qiBaU9HUOm4zKjYYAvQXLMpO7cFtfr8fV6/POHqc8fpp42Zi2oC5kB1phAJUeGKWhAFRmt+/yP16SnjdmOeL0RpLhu6AgyOai3yrcGRUG/1VLbmxdp7G757Od7hh1KBwWGK44KUGlQqFXXMcMOnUClZaYQYo3OTL8H2s40821Pvwfa7mlmIPTFRvTFRvRE0Em25EhAkgU41Kf8ekOoNwT6Pbda/vV3eXD546jkQmZ7o3pC9/d8+3uHd+DVJre9HWr9+Ci+U5V2qlIHlG6U1777duinpv/j34FPTX93vft7vtf3xKaoNEWl56CcqNx2KTt0pyo1RYXm0hH1hnDr6k//VK++vS12QNsutWDtfhf0L11+2TWlekOQV8q7bwLdPW3v/kIv6P/PZt7/GcXLN+/WWjVasf1vSF4pW6PrC8X9B/Vqk3vwh/jkeZI+bm2Fk9erlfvEGl3fQYVYY5kpTHx18u4rdV5esSK3Wh5wpcBwhcYRV8oeH9+5La+5eeOy3c86M13o1VMa/+1N203v8cN4P5M9wqR/WV2kHrxej6/VUv0o6XQ6ZRPHccc16QGiFCp+KhY8fyU9KrZ3P/btRtklSRLXR8Fg8PRXsWdnnKg8hsweb1NuOuLxhKZs8ng8wWDQ5XINDVT4nD88okgu+YcRfDgoy6XyAKMz0VM2DQ0NzZ5E4QB/6FIZpqBM5olXIV4l7U6O2+R2u+dPpMgi7ekXU8HbMYWlKsMAAAAASUVORK5CYII=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMCBAUG/8QAJxAAAQQBAgMJAAAAAAAAAAAAAQACAxEEBTESE1MVITNBQ1FhkdH/xAAXAQEAAwAAAAAAAAAAAAAAAAADAQUG/8QAHhEAAgICAwEBAAAAAAAAAAAAAQIDEQAEEhMhMWH/2gAMAwEAAhEDEQA/AOgOp5h9d6VNrGRC3imyzGNrJpVXGhdE/AVXXdFZkYpmyDIJQ2mxA0X7Hb3rZXG7srqx8/L/AHMtq6zbD8VzY7TzOu9SGq5vXP0sqEQ4vKw2OoiMFrTd0np43V0DivcJ0MTlXFHBRztUlbJJK+GZ7wAQ6Nt2du4A+SkhRNBDNXYt1iQTyRX1mrxGO5s9ZPKeyR1+KKePxPQlvJDqCYARjivzBdy5s5//2Q==" width="28" height="28" alt="" />
@@ -370,7 +371,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Mar 2024, 06:06:43 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Mar 2024, 07:04:21 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

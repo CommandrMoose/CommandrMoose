@@ -1,7 +1,7 @@
 # Clayton O'Dea, Big Nerd 
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/clayton-trewben-1a565817a/">
+	<a href="https://www.linkedin.com/in/clayton-o-dea-1a565817a/">
 		<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:ctrewben@gmail.com">
@@ -13,12 +13,14 @@
 	</a>
 </p>
 
-Software Developer and Game Developer.
+Australian based Software Developer (with a passion for game development!)
 
-* Completed Bachelor's in Computer Science and Games Design at QUT
-* I have a passion for quirky games and projects
-* I'm always wanting to learn and improve my skillset.
-* Love movies, but I've probably not seen what you're talking about (looking to improve that!)
+Graduated from the Queensland University of Technology, with my Bachelor of Information Techology (Computer Science) with Distinction.
+
+You'd best know me from my work on <a href="https://modrinth.com/mod/tardis-refined">TARDIS Refined</a>, a Minecraft mod that brings Doctor Who's TARDIS into the game.
+
+Working on an indie game, <a href="https://www.youtube.com/@RiverHeartfelt">Hearfelt</a> in the Unity game engine.
+
 <hr/>
 <div align="center">
 	

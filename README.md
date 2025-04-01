@@ -13,6 +13,8 @@
 	</a>
 </p>
 
+
+
 Australian based Software Developer (with a passion for game development!)
 
 Graduated from the Queensland University of Technology, with my Bachelor of Information Techology (Computer Science) with Distinction.
@@ -20,6 +22,18 @@ Graduated from the Queensland University of Technology, with my Bachelor of Info
 You'd best know me from my work on <a href="https://modrinth.com/mod/tardis-refined">TARDIS Refined</a>, a Minecraft mod that brings Doctor Who's TARDIS into the game.
 
 Working on an indie game, <a href="https://www.youtube.com/@RiverHeartfelt">Hearfelt</a> in the Unity game engine.
+
+Skills:
+.NET & ASP.NET Frameworks with C#
+React, React Navtive for Web, Android and iOS development.
+Functional programming with Javascript and Typescript development.
+Unity3d 5.x Design and Development.
+Unreal 4 & 5 Blueprint and C++ development.
+Java development with Intellij and Android Studio.
+Minecraft Mod development with Arch, Fabric and Forge for modern versions of the game.
+Azure Devops Pipeline management.
+Clickup, Jira and Azure PBI sprint planning and development.
+
 
 <hr/>
 <div align="center">

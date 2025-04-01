@@ -23,16 +23,16 @@ You'd best know me from my work on <a href="https://modrinth.com/mod/tardis-refi
 
 Working on an indie game, <a href="https://www.youtube.com/@RiverHeartfelt">Hearfelt</a> in the Unity game engine.
 
-Skills:
-.NET & ASP.NET Frameworks with C#
-React, React Navtive for Web, Android and iOS development.
-Functional programming with Javascript and Typescript development.
-Unity3d 5.x Design and Development.
-Unreal 4 & 5 Blueprint and C++ development.
-Java development with Intellij and Android Studio.
-Minecraft Mod development with Arch, Fabric and Forge for modern versions of the game.
-Azure Devops Pipeline management.
-Clickup, Jira and Azure PBI sprint planning and development.
+## Skills:<br/>
+.NET & ASP.NET Frameworks with C#<br/>
+React, React Navtive for Web, Android and iOS development.<br/>
+Functional programming with Javascript and Typescript development.<br/>
+Unity3d 5.x Design and Development.<br/>
+Unreal 4 & 5 Blueprint and C++ development.<br/>
+Java development with Intellij and Android Studio.<br/>
+Minecraft Mod development with Arch, Fabric and Forge for modern versions of the game.<br/>
+Azure Devops Pipeline management.<br/>
+Clickup, Jira and Azure PBI sprint planning and development.<br/>
 
 
 <hr/>

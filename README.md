@@ -1,4 +1,4 @@
-# Clayton O'Dea, Big Nerd 
+# Clayton O'Dea - CommandrMoose/River
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/clayton-o-dea-1a565817a/">

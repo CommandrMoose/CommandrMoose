@@ -15,7 +15,7 @@
 
 
 
-Brisbane based software developer working in the medical software sector, working on web-cloud-based solutions in react as well as mobile solutions on Android and iOS.
+Brisbane based software developer working in the medical software sector, working on web-cloud-based solutions in react as well as mobile solutions on Android and iOS with React Native.
 
 Graduated from the Queensland University of Technology, with my Bachelor of Information Techology (Computer Science) with Distinction.
 

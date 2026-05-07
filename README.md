@@ -23,7 +23,8 @@ You'd best know me from my work on <a href="https://modrinth.com/mod/tardis-refi
 
 Working on an indie game, <a href="https://www.youtube.com/@RiverHeartfelt">Hearfelt</a>, prototyping and building in Godot 4.0
 
-[![Heartfelt Developmet](https://img.youtube.com/vi/A94Du1-bIw4/0.jpg)](https://www.youtube.com/watch?v=A94Du1-bIw4)
+Latest Heartfelt video:
+[![Heartfelt Development](https://img.youtube.com/vi/A94Du1-bIw4/0.jpg)](https://www.youtube.com/watch?v=A94Du1-bIw4)
 
 ## Skills:<br/>
 .NET & ASP.NET Frameworks with C#<br/>

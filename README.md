@@ -23,7 +23,7 @@ You'd best know me from my work on <a href="https://modrinth.com/mod/tardis-refi
 
 
 ## Heartfelt - Game Project
-Working on an indie game, <a href="https://www.youtube.com/@RiverHeartfelt">Hearfelt</a>, prototyping and building in Godot 4.0. This project has allowed me the oppertunity to write my own systems, including:
+Working on an indie game, <a href="https://www.youtube.com/@RiverHeartfelt">Heartfelt</a>, prototyping and building in Godot 4.0. This project has allowed me the oppertunity to write my own systems, including:
 - Game State serialisation through custom save implimentation
 - Diaglog/Narrative state trees through Unity Scriptable Objects and Markdown
 - Device dynamic input action maps in Godot
